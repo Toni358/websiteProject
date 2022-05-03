@@ -1,5 +1,6 @@
 header {
     background-image: url('coder.jpg');
+    background-color: red;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
