@@ -13,29 +13,30 @@ h1 {
     text-shadow: 5px 5px 4px rgb(0, 0, 0);
 }
 
-ul {
+.navbar ul {
     list-style-type: none;
-    margin: 0;
+    background: grey;
     padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: white;
+    margin: 0;
     text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
 }
 
+.navbar li {
+    display: inline-block
+}
 
-/* Change the link color to #111 (black) on hover */
+.navbar a {
+    text-decoration: none;
+    color: aliceblue;
+    width: 100px;
+    display: block;
+    padding: 25px 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
 
-li a:hover {
-    background-color: #111;
+.navbar a:hover {
+    background: darkgray;
 }
