@@ -12,7 +12,7 @@ header {
     /* Resize the background image to cover the entire container */
 }
 
-#callus {
+h2.callus {
     text-align: bottom, right;
     padding: 10px;
     color: rgb(19, 0, 61);
