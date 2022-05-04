@@ -6,6 +6,11 @@
     border: 2px;
 }
 
+h1 {
+    text-align: center;
+    text-shadow: white;
+}
+
 #left {
     float: left;
     margin: 8px;
