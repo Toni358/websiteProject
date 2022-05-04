@@ -15,10 +15,10 @@ header {
 .alignLeft {
     float: left;
     padding: 10x;
-    margin: 10px;
 }
 
 #contact {
     vertical-align: text-bottom;
     color: #ffffff;
+    padding: 20px;
 }
