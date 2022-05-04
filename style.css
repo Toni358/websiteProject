@@ -23,7 +23,7 @@ ul {
 
 li {
     text-align: center;
-    display: inline;
+    display: flex;
 }
 
 li a {
