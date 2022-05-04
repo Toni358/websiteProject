@@ -13,7 +13,7 @@ header {
 }
 
 #callus {
-    text-align: right;
+    text-align: top, right;
     padding: 10px;
     color: rgb(255, 254, 254);
 }
