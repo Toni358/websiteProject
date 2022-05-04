@@ -14,6 +14,7 @@ header {
 
 .alignLeft {
     float: left;
+    padding: 100px;
 }
 
 #contact {
