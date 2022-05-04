@@ -15,6 +15,7 @@ header {
 #callus {
     text-align: right;
     padding: 10px;
-    color: midnightblue;
-    size: 20px;
+    color: rgb(19, 0, 61);
+    size: 60px;
+    text-decoration: solid;
 }
