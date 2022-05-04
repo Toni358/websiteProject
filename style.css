@@ -22,8 +22,7 @@ ul {
 }
 
 li {
-    text-align: center;
-    display: flex;
+    float: inline-start;
 }
 
 li a {
