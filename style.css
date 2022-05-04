@@ -11,3 +11,7 @@ header {
     background-size: cover;
     /* Resize the background image to cover the entire container */
 }
+
+#callus {
+    float: left;
+}
