@@ -16,12 +16,12 @@ h1 {
     float: left;
     margin: 8px;
     padding: 16px;
-    vertical-align: bottom;
+    vertical-align: text-bottom;
 }
 
 #right {
     float: right;
     margin: 8px;
     padding: 16px;
-    vertical-align: bottom;
+    vertical-align: text-bottom;
 }
