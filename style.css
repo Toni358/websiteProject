@@ -23,6 +23,7 @@ ul {
 
 li {
     justify-content: center;
+    align-content: inherit;
 }
 
 li a {
