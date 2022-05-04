@@ -8,3 +8,9 @@
     bottom: 8px;
     top: 16px
 }
+
+.top-right {
+    position: absolute;
+    bottom: 8px;
+    top: 18px;
+}
