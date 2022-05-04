@@ -16,7 +16,8 @@ header {
     float: left;
 }
 
-#alignRight {
+#contact {
     float: right;
     vertical-align: text-bottom;
+    color: #cccccc;
 }
