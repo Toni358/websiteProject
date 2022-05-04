@@ -33,5 +33,5 @@ li a {
 }
 
 li a:hoover {
-    background-color: #111;
+    background-color: rgb(97, 49, 49);
 }
