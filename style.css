@@ -22,8 +22,7 @@ ul {
 }
 
 li {
-    justify-content: center;
-    align-content: inherit;
+    text-align: center;
 }
 
 li a {
