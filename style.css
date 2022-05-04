@@ -18,4 +18,5 @@ header {
 
 #alignRight {
     float: right;
+    vertical-align: text-top;
 }
