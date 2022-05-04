@@ -1,6 +1,9 @@
 .container {
     position: relative;
     color: white;
+    height: 400;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .top-left {
@@ -13,4 +16,5 @@
     position: absolute;
     bottom: 8px;
     top: 18px;
+    float: right;
 }
