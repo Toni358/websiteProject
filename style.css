@@ -20,4 +20,5 @@ header {
 #contact {
     vertical-align: text-bottom;
     color: #ffffff;
+    position: absolute;
 }
