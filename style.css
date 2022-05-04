@@ -8,7 +8,8 @@
 
 h1 {
     text-align: center;
-    text-shadow: 2px 2px white;
+    color: darkblue;
+    text-shadow: 2px 2px rgb(0, 0, 0);
 }
 
 #left {
