@@ -15,6 +15,7 @@ header {
 .alignLeft {
     float: left;
     padding: 10x;
+    margin: 50px;
 }
 
 #contact {
