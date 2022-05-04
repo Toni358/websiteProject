@@ -1,9 +1,3 @@
 header {
-    background-image: url('/istockphoto-1224500457-612x612.jpg');
-    background-color: red;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100% 100%;
-    height: 200;
-    width: 200;
+    background-image: url('./pictures/codewall.jpg')
 }
