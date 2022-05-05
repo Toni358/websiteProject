@@ -5,7 +5,7 @@
     height: 400px;
     border: 2px;
     background-repeat: none;
-    display: table;
+    display: flex;
 }
 
 .align-header {
