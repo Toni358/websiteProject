@@ -109,5 +109,5 @@ body {
     width: 50%;
     height: 50%;
     object-fit: cover;
-    vertical-align: top;
+    margin-top: 100%;
 }
