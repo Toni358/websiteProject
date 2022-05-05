@@ -241,6 +241,7 @@ body {
     margin-left: auto;
     position: relative;
     margin-bottom: 200px;
+    float: right;
 }
 
 .support-title-midle-intro {
