@@ -52,7 +52,6 @@ body {
 
 .container-top-intro {
     line-height: 1.15;
-    -webkit-text-size-adjust: 100%;
     font-family: museo-sans;
     box-sizing: border-box;
     max-width: 1270px;
