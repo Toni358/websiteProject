@@ -301,7 +301,7 @@ body {
     box-sizing: border-box;
     border-style: none;
     width: 50%;
-    height: 80%;
+    height: 50%;
     object-fit: cover;
     margin-top: -16%;
 }
