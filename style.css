@@ -284,18 +284,6 @@ body {
     color: #6f7073;
 }
 
-.last-imagediv {
-    line-height: 1.15;
-    font-family: museo-sans;
-    box-sizing: border-box;
-    border-style: none;
-    width: 20%;
-    height: 30%;
-    object-fit: cover;
-    margin-top: -12%;
-    float: left;
-}
-
 .last-image {
     line-height: 1.15;
     font-family: museo-sans;
