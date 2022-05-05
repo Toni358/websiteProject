@@ -130,17 +130,22 @@ body {
     margin-bottom: 0;
 }
 
-.happycustomer {
+.happycustomerdiv {
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
     font-family: museo-sans;
     box-sizing: border-box;
-    border-style: none;
-    width: 50%;
-    height: 50%;
-    object-fit: cover;
-    margin-top: 100%;
-    padding: 20px;
+    position: absolute;
+    height: 100%;
+    margin-left: 20px;
+    overflow: hidden;
+    border-radius: 20px;
+    right: 52%;
+    transition-property: opacity, transform;
+    transition-duration: 1.5s;
+    transition-timing-function: ease;
+    opacity: 1;
+    transform: translateZ(0);
 }
 
 .container-middle-intro {
