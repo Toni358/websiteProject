@@ -72,3 +72,14 @@ body {
     font-size: 16px;
     text-transform: uppercase;
 }
+
+.section-title {
+    -webkit-text-size-adjust: 100%;
+    font-family: museo-sans;
+    box-sizing: border-box;
+    font-weight: 300;
+    margin: 10px 0 40px;
+    line-height: 1;
+    font-size: 38px;
+    color: #5b4084;
+}
