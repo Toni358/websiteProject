@@ -148,6 +148,17 @@ body {
     transform: translateZ(0);
 }
 
+.happycustomerimg {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    font-family: museo-sans;
+    box-sizing: border-box;
+    border-style: none;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 .container-middle-intro {
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
