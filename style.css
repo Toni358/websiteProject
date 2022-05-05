@@ -252,6 +252,7 @@ body {
     top: 0;
     left: 52%;
     width: 47%;
+    float: right;
 }
 
 .support-title-bottom-intro {
