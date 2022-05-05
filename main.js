@@ -1,5 +1,4 @@
-< script type = "text/javascript" >
-    window.addEventListener('scroll', reveal);
+window.addEventListener('scroll', reveal);
 
 function reveal() {
     var reveals = document.querySelectorAll('.reveal');
@@ -16,5 +15,4 @@ function reveal() {
             reveals[i].classList.remove('active');
         }
     }
-} <
-/script>
+}
