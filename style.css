@@ -283,3 +283,14 @@ body {
     font-weight: 300;
     color: #6f7073;
 }
+
+.last-image {
+    line-height: 1.15;
+    font-family: museo-sans;
+    box-sizing: border-box;
+    border-style: none;
+    width: 70%;
+    height: 50%;
+    object-fit: cover;
+    margin-top: -12%;
+}
