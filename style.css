@@ -1,4 +1,4 @@
-    #header-background {
+#header-background {
     background: url(pictures/code3.jpg);
     background-color: white;
     background-size: 100%;
@@ -242,50 +242,56 @@ body {
     position: relative;
     margin-top: 100px;
     margin-bottom: 100px;
-    .home-intro-bottom-text {
-        line-height: 1.15;
-        font-family: museo-sans;
-        box-sizing: border-box;
-        position: relative;
-        top: 0;
-        left: 52%;
-        width: 47%;
-    }
-    .support-title-bottom-intro {
-        line-height: 1.15;
-        font-family: museo-sans;
-        box-sizing: border-box;
-        color: #00accd;
-        font-weight: 500;
-        margin: 0;
-        font-size: 16px;
-        text-transform: uppercase;
-    }
-    .support-title-botom {
-        font-family: museo-sans;
-        box-sizing: border-box;
-        font-weight: 300;
-        margin: 10px 0 40px;
-        line-height: 1;
-        font-size: 38px;
-        color: #5b4084;
-    }
-    .support-text-bottom {
-        font-family: museo-sans;
-        box-sizing: border-box;
-        line-height: 1.5;
-        margin-bottom: 20px;
-        font-weight: 300;
-        color: #6f7073;
-    }
-    .last-image {
-        line-height: 1.15;
-        font-family: museo-sans;
-        box-sizing: border-box;
-        border-style: none;
-        width: 50%;
-        height: 30%;
-        object-fit: cover;
-        margin-top: -12%;
-        float: left;
-    }
+}
+
+.home-intro-bottom-text {
+    line-height: 1.15;
+    font-family: museo-sans;
+    box-sizing: border-box;
+    position: relative;
+    top: 0;
+    left: 52%;
+    width: 47%;
+}
+
+.support-title-bottom-intro {
+    line-height: 1.15;
+    font-family: museo-sans;
+    box-sizing: border-box;
+    color: #00accd;
+    font-weight: 500;
+    margin: 0;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.support-title-botom {
+    font-family: museo-sans;
+    box-sizing: border-box;
+    font-weight: 300;
+    margin: 10px 0 40px;
+    line-height: 1;
+    font-size: 38px;
+    color: #5b4084;
+}
+
+.support-text-bottom {
+    font-family: museo-sans;
+    box-sizing: border-box;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    font-weight: 300;
+    color: #6f7073;
+}
+
+.last-image {
+    line-height: 1.15;
+    font-family: museo-sans;
+    box-sizing: border-box;
+    border-style: none;
+    width: 50%;
+    height: 30%;
+    object-fit: cover;
+    margin-top: -12%;
+    float: left;
+}
