@@ -50,6 +50,22 @@ body {
     margin: 0;
 }
 
+.container-top-intro {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    font-family: museo-sans;
+    box-sizing: border-box;
+    max-width: 1270px;
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
 .home-intro-top-text {
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
