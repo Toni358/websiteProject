@@ -284,6 +284,10 @@ body {
     color: #6f7073;
 }
 
+.last-imagediv {
+    float: right;
+}
+
 .last-image {
     line-height: 1.15;
     font-family: museo-sans;
