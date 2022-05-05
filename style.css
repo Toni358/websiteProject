@@ -77,7 +77,6 @@ body {
 
 .support-title {
     line-height: 1.15;
-    -webkit-text-size-adjust: 100%;
     font-family: museo-sans;
     box-sizing: border-box;
     color: #00accd;
@@ -88,7 +87,6 @@ body {
 }
 
 .section-title {
-    -webkit-text-size-adjust: 100%;
     font-family: museo-sans;
     box-sizing: border-box;
     font-weight: 300;
@@ -99,7 +97,6 @@ body {
 }
 
 .support-text-top {
-    -webkit-text-size-adjust: 100%;
     font-family: museo-sans;
     box-sizing: border-box;
     line-height: 1.5;
@@ -110,10 +107,8 @@ body {
 
 .button {
     line-height: 1.15;
-    -webkit-text-size-adjust: 100%;
     font-family: museo-sans;
     box-sizing: border-box;
-    -webkit-tap-highlight-color: transparent;
     text-decoration: none;
     display: inline-block;
     text-transform: uppercase;
@@ -121,7 +116,6 @@ body {
     color: #FFF;
     font-size: 16px;
     border-radius: 20px;
-    transition: background-color .3s linear;
     text-align: center;
     margin: 20px 0;
     padding: 10px 30px;
@@ -138,11 +132,8 @@ body {
     overflow: hidden;
     border-radius: 20px;
     right: 52%;
-    transition-property: opacity, transform;
     transition-duration: 1.5s;
-    transition-timing-function: ease;
     opacity: 1;
-    transform: translateZ(0);
 }
 
 .happycustomerimg {
