@@ -293,7 +293,7 @@ body {
     height: 30%;
     object-fit: cover;
     margin-top: -12%;
-    float: right;
+    float: left;
 }
 
 .last-image {
@@ -305,5 +305,5 @@ body {
     height: 30%;
     object-fit: cover;
     margin-top: -12%;
-    float: right;
+    float: left;
 }
