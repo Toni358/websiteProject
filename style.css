@@ -100,6 +100,16 @@ body {
     color: #5b4084;
 }
 
+.support-text-top {
+    -webkit-text-size-adjust: 100%;
+    font-family: museo-sans;
+    box-sizing: border-box;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    font-weight: 300;
+    color: #6f7073;
+}
+
 .button {
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
@@ -171,7 +181,7 @@ body {
     color: #5b4084;
 }
 
-.support-text {
+.support-text-middle {
     -webkit-text-size-adjust: 100%;
     font-family: museo-sans;
     box-sizing: border-box;
