@@ -304,4 +304,5 @@ body {
     height: 50%;
     object-fit: cover;
     margin-top: -12%;
+    float: left;
 }
