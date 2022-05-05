@@ -411,3 +411,7 @@ section .cards .text-card h3 {
     transform: translateY(0px);
     opacity: 1;
 }
+
+.bottomtitile {
+    background-color: #3494d9;
+}
