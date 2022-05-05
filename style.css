@@ -126,13 +126,11 @@ body {
     line-height: 1.15;
     font-family: museo-sans;
     box-sizing: border-box;
-    position: absolute;
-    height: 100%;
-    margin-left: 20px;
-    overflow: hidden;
-    border-radius: 20px;
-    right: 52%;
-    opacity: 1;
+    border-style: none;
+    width: 70%;
+    height: 50%;
+    object-fit: cover;
+    margin-top: -12%;
 }
 
 .happycustomerimg {
