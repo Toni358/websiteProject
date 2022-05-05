@@ -141,9 +141,8 @@ body {
     box-sizing: border-box;
     border-style: none;
     width: 70%;
-    height: 52%;
+    height: 50%;
     object-fit: cover;
-    margin-top: -12%;
 }
 
 .container-middle-intro {
