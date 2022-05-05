@@ -99,3 +99,14 @@ body {
     font-size: 38px;
     color: #5b4084;
 }
+
+.happycustomer {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    font-family: museo-sans;
+    box-sizing: border-box;
+    border-style: none;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
