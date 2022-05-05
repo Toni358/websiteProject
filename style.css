@@ -132,13 +132,11 @@ body {
     overflow: hidden;
     border-radius: 20px;
     right: 52%;
-    transition-duration: 1.5s;
     opacity: 1;
 }
 
 .happycustomerimg {
     line-height: 1.15;
-    -webkit-text-size-adjust: 100%;
     font-family: museo-sans;
     box-sizing: border-box;
     border-style: none;
@@ -150,7 +148,6 @@ body {
 
 .container-middle-intro {
     line-height: 1.15;
-    -webkit-text-size-adjust: 100%;
     font-family: museo-sans;
     box-sizing: border-box;
     max-width: 1270px;
@@ -165,7 +162,6 @@ body {
 
 .support-title-midle-intro {
     line-height: 1.15;
-    -webkit-text-size-adjust: 100%;
     font-family: museo-sans;
     box-sizing: border-box;
     color: #00accd;
@@ -176,7 +172,6 @@ body {
 }
 
 .support-title-middle {
-    -webkit-text-size-adjust: 100%;
     font-family: museo-sans;
     box-sizing: border-box;
     font-weight: 300;
@@ -187,7 +182,6 @@ body {
 }
 
 .support-text-middle {
-    -webkit-text-size-adjust: 100%;
     font-family: museo-sans;
     box-sizing: border-box;
     line-height: 1.5;
