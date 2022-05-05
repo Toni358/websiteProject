@@ -9,8 +9,6 @@
     align-items: center;
     justify-content: center;
     font-size: 2.6em;
-    padding: 0;
-    margin: 0;
 }
 
 .header-color {
@@ -48,4 +46,6 @@
     background: rgb(120, 119, 119);
 }
 
-body {}
+body {
+    margin: 0;
+}
