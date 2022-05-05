@@ -250,9 +250,8 @@ body {
     box-sizing: border-box;
     position: relative;
     top: 0;
-    left: 0%;
+    left: 52%;
     width: 47%;
-    float: right;
 }
 
 .support-title-bottom-intro {
@@ -266,7 +265,7 @@ body {
     text-transform: uppercase;
 }
 
-.support-title-botom {
+.support-title-bottom {
     font-family: museo-sans;
     box-sizing: border-box;
     font-weight: 300;
