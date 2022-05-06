@@ -415,3 +415,13 @@ section .cards .text-card h3 {
 .bottomtitle {
     background-color: #3494d9;
 }
+
+section .lage-section {
+    display: flex;
+}
+
+section .lagre-section .text-lage-section {
+    background: #3494d9;
+    margin: 20px;
+    padding: 20px;
+}
