@@ -415,29 +415,3 @@ section .cards .text-card h3 {
 .bottomtitle {
     background-color: #3494d9;
 }
-
-section .large-section {
-    display: flex;
-}
-
-section .large-section .text-large-section {
-    background: #3494d9;
-    margin: 20px;
-    padding: 20px;
-}
-
-section .large-section .text-large-section h3 {
-    font-size: 30px;
-    text-align: center;
-    text-transform: uppercase;
-    margin-bottom: 10px;
-}
-
-@media (max-width: 900px) {
-    section h1 {
-        font-size: 40px;
-    }
-    section .large-section {
-        flex-direction: column;
-    }
-}
