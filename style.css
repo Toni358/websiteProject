@@ -475,7 +475,7 @@
     }
     
     .footer-distributed .footer-company-name {
-        color: #8f9296;
+        color: #f3f8ff;
         font-size: 14px;
         font-weight: normal;
         margin: 0;
@@ -491,7 +491,7 @@
         width: 35px;
         height: 35px;
         cursor: pointer;
-        background-color: #f7fcff;
+        background-color: #33383b;
         border-radius: 2px;
         font-size: 20px;
         color: #ffffff;
