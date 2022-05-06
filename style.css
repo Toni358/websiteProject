@@ -440,5 +440,14 @@ section .cards .text-card h3 {
     margin-right: auto;
     margin-left: auto;
     max-width: 1250px;
-    width: 100%;
+    width: 100% !important;
+}
+
+.wrapper {
+    font-family: Raleway;
+    font-size: 17px;
+    line-height: 1.8em;
+    color: #333;
+    font-weight: 400;
+    box-sizing: border-box;
 }
