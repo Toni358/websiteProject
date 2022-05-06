@@ -416,11 +416,11 @@ section .cards .text-card h3 {
     background-color: #3494d9;
 }
 
-section .lage-section {
+section .large-section {
     display: flex;
 }
 
-section .lagre-section .text-lage-section {
+section .large-section .text-large-section {
     background: #3494d9;
     margin: 20px;
     padding: 20px;
