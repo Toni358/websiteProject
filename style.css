@@ -328,7 +328,7 @@
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        font-family: museo-sans;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
     
     body {
@@ -474,7 +474,6 @@
         line-height: 1.8;
         text-decoration: none;
         color: inherit;
-        font-family: museo-sans;
     }
     
     .footer-distributed .footer-company-name {
