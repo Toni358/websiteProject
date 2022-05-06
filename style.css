@@ -417,7 +417,7 @@ section .cards .text-card h3 {
 }
 
 .new footer {
-    font-family: Raleway;
+    font-family: museo-sans;
     font-size: 17px;
     line-height: 1.8em;
     color: #333;
@@ -426,4 +426,13 @@ section .cards .text-card h3 {
     display: block;
     background-color: #dd227c;
     padding: 20px 0;
+}
+
+.footer-left-side {
+    font-family: museo-sans;
+    font-size: medium;
+    display: block;
+    box-sizing: content-box;
+    background-color: #dd227c;
+    padding: 20px;
 }
