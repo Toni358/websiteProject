@@ -46,7 +46,9 @@
     background: rgb(120, 119, 119);
 }
 
-body {}
+body {
+    margin: 0;
+}
 
 .container-top-intro {
     line-height: 1.15;
