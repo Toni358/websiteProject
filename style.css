@@ -429,11 +429,30 @@ section .cards .text-card h3 {
 }
 
 .footer-left-side {
-    font-family: museo-sans;
-    font-size: medium;
-    display: block;
-    box-sizing: content-box;
-    background-color: #a44082;
-    padding: 20px;
-    color: white;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    --purechat-p-bg: #dd227c;
+    --purechat-p-bg-d: #c71f70;
+    --purechat-p-bg-l: #e03889;
+    --purechat-p-fg: #ffffff;
+    --purechat-p-fg-l: #ffffff;
+    --purechat-s-bg: #f8f7f5;
+    --purechat-s-bg-d: #e8e5df;
+    --purechat-s-bg-l: #ffffff;
+    --purechat-s-fg: #676a6d;
+    --purechat-s-fg-l: #3b404c;
+    --purechat-s-fg-d: #3b404c;
+    --purechat-a-d: #c11e1f;
+    --purechat-a-d-bg: #c11e1f;
+    --purechat-a-d-fg: #ffffff;
+    --purechat-btn-bg: #dd227c;
+    --purechat-btn-fg: #ffffff;
+    --purechat-btn-b: rgba(255, 255, 255, 0.5);
+    --purechat-btn-b-h: rgba(255, 255, 255, 1);
+    font-family: Raleway;
+    font-size: 17px;
+    line-height: 1.8em;
+    color: #333;
+    font-weight: 400;
+    box-sizing: border-box;
 }
