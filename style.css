@@ -440,5 +440,5 @@ section .cards .text-card h3 {
     margin-right: auto;
     margin-left: auto;
     max-width: 1250px;
-    width: 100% !important;
+    width: 100%;
 }
