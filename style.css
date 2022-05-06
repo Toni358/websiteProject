@@ -340,6 +340,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        text-decoration-color: #FFF;
     }
     
     section:nth-child(1) {
