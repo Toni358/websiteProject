@@ -335,6 +335,12 @@
         background: #ffffff;
     }
     
+    .section-header-text {
+        background-color: white;
+        color: #a44082;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    
     section {
         min-height: 20vh;
         display: flex;
