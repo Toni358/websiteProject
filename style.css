@@ -540,12 +540,12 @@
     }
     
     .footer-distributed ::-moz-placeholder {
-        color: #5c666b;
+        color: #ffffff;
         opacity: 1;
     }
     
     .footer-distributed :-ms-input-placeholder {
-        color: #5c666b;
+        color: #ffffff;
     }
     
     .footer-distributed form input {
