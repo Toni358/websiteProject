@@ -425,3 +425,10 @@ section .lagre-section .text-lage-section {
     margin: 20px;
     padding: 20px;
 }
+
+section .large-section .text-large-section h3 {
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
