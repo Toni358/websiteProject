@@ -427,18 +427,3 @@ section .cards .text-card h3 {
     background: #dd227c;
     padding: 20px 0;
 }
-
-.footer-container {
-    font-family: Raleway;
-    font-size: 17px;
-    line-height: 1.8em;
-    color: #333;
-    font-weight: 400;
-    box-sizing: border-box;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-    max-width: 1250px;
-    width: 100% !important;
-}
