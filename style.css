@@ -424,6 +424,6 @@ section .cards .text-card h3 {
     font-weight: 400;
     box-sizing: border-box;
     display: block;
-    background: #dd227c;
+    background-color: #dd227c;
     padding: 20px 0;
 }
