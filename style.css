@@ -433,6 +433,7 @@ section .cards .text-card h3 {
     font-size: medium;
     display: block;
     box-sizing: content-box;
-    background-color: #dd227c;
+    background-color: #a44082;
     padding: 20px;
+    color: white;
 }
