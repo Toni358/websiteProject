@@ -343,7 +343,7 @@
     }
     
     section:nth-child(1) {
-        color: rgb(239, 239, 239);
+        color: #fff;
     }
     
     section:nth-child(2) {
