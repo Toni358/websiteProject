@@ -441,7 +441,7 @@ section .cards .text-card h3 {
     box-sizing: border-box;
     text-transform: uppercase;
     position: relative;
-    color: #fff;
+    color: rgb(184, 12, 115);
     font-family: raleway !important;
     font-size: 15px;
     line-height: normal;
