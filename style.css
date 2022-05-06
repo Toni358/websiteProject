@@ -415,3 +415,15 @@ section .cards .text-card h3 {
 .bottomtitle {
     background-color: #3494d9;
 }
+
+.footer-container {
+    font-family: Raleway;
+    font-size: 17px;
+    line-height: 1.8em;
+    color: #333;
+    font-weight: 400;
+    box-sizing: border-box;
+    display: block;
+    background: #dd227c;
+    padding: 20px 0;
+}
